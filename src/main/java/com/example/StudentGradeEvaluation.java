@@ -14,7 +14,9 @@ public class StudentGradeEvaluation {
 
         // Prompt the user to enter their age
         System.out.println("Enter your age");
-        int age = new Scanner.nextInt();
+        int age = new Scanner.nextInt(); 
+        // test
+        
         
 
         // Prompt the user to enter their exam score
